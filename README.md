@@ -1,6 +1,7 @@
 # hello-world
 Test and Practice
 
-A bit about yourself.
+Name: Ben Rude
 
 //added a bit about myself
+//now with less snark
